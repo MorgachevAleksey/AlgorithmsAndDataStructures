@@ -14,7 +14,7 @@ public class Task1_mergeSort {
 
     //Входная точка, поэтому public
     public static void mergeSort(int[] arr){
-        //Защита от некорректных воодных данных
+        //Защита от некорректных вводных данных
         if (arr ==  null || arr.length < 2){
             return;
         }
