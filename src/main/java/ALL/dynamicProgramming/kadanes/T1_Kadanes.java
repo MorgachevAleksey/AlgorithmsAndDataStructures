@@ -1,4 +1,4 @@
-package ALL.kadanes;
+package ALL.dynamicProgramming.kadanes;
 
 import java.util.Arrays;
 

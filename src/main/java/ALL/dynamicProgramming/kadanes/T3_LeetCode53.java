@@ -1,4 +1,4 @@
-package ALL.kadanes;
+package ALL.dynamicProgramming.kadanes;
 
 //Решение 53 задачи ЛитКод
 public class T3_LeetCode53 {

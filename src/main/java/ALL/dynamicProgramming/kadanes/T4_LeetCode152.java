@@ -1,4 +1,4 @@
-package ALL.kadanes;
+package ALL.dynamicProgramming.kadanes;
 
 public class T4_LeetCode152 {
     public static void main(String[] args){
