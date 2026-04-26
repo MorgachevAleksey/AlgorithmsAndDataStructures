@@ -1,4 +1,4 @@
 package ALL.l04_binarySearch;
 
-public class Practice {
+public class T1_BinarySearch {
 }

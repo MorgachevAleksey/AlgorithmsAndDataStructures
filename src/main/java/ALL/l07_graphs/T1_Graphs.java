@@ -1,4 +1,4 @@
 package ALL.l07_graphs;
 
-public class Practice {
+public class T1_Graphs {
 }

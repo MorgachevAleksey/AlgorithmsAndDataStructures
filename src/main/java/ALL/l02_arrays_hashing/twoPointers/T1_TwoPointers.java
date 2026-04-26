@@ -1,4 +1,4 @@
 package ALL.l02_arrays_hashing.twoPointers;
 
-public class Practice {
+public class T1_TwoPointers {
 }

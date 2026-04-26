@@ -1,4 +1,4 @@
 package ALL.l03_linkedLists;
 
-public class Practice {
+public class T1_LinkedList {
 }
