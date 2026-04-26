@@ -15,7 +15,8 @@
 
 Так же представлены решения задач по java с сайта CodeWars
 `src/main/java/ALL/l00_codeWarsTasks`
-- `T1_helloWorld.java`
-- `T2_objectInArray.java`
-- `T3_arrayAverage.java`
+- `T1_HelloWorld.java`
+- `T2_ObjectInArray.java`
+- `T3_ArrayAverage.java`
+- `T4_ReturnMessage.java`
 
