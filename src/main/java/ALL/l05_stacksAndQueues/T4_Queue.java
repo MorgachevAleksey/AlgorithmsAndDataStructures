@@ -1,6 +1,6 @@
 package ALL.l05_stacksAndQueues;
 
-public class Task4_Queue {
+public class T4_Queue {
     //Реализация очереди на массиве
     static class Queue{
         int[] arr; //Основной массив

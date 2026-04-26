@@ -1,6 +1,6 @@
 package ALL.l05_stacksAndQueues;
 
-public class Task1_arrayStack {
+public class T1_ArrayStack {
     public static void main(String[] args) {
         //Тестирование стэка
         Stack myStack = new Stack(5);

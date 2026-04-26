@@ -1,6 +1,6 @@
 package ALL.l05_stacksAndQueues;
 
-public class Task3_Stack_LeetCode20 {
+public class T3_LeetCode_20 {
     //Решение задачи с использованием созданного стэка
     public static void main(String[] args){
         String s = "()";

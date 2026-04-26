@@ -1,6 +1,6 @@
 package ALL.l05_stacksAndQueues;
 
-public class Task2_linkedListStack {
+public class T2_LinkedListStack {
     //Тестированиеp
     public static void main(String[] args){
         Stack testStack = new Stack();

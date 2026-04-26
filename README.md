@@ -10,10 +10,19 @@
    - Быстрая
    `src/main/java/ALL/l01_sorts/quickSort`
      - `T0_QuickSortTheory.md`
-     - `T1_quickSort.java`
-   
+     - `T1_QuickSort.java`
 
-Так же представлены решения задач по java с сайта CodeWars
+2. Массивы и хеши
+   - Два указателя
+   `src/main/java/ALL/l02_arrays_hashing/twoPointers`
+     - `T0_TwoPointersTheory.md`
+     - `T1_TwoPointers.java`
+   - Скользящее окно
+   `src/main/java/ALL/l02_arrays_hashing/slidingWindow`
+     - `T0_SlidingWindowTheory.md`
+     - `T1_SlidingWindow.java`
+
+Также представлены решения задач по Java с сайта CodeWars
 `src/main/java/ALL/l00_codeWarsTasks`
 - `T1_HelloWorld.java`
 - `T2_ObjectInArray.java`

@@ -1,6 +1,6 @@
 package ALL.l08_dynamicProgramming.kadanes;
 
-public class T4_LeetCode152 {
+public class T4_LeetCode_152 {
     public static void main(String[] args){
         int arr[] = {-1,-2,-9,-6};
 

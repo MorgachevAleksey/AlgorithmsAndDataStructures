@@ -1,7 +1,7 @@
-package ALL.l06_trees.Binary;
+package ALL.l06_trees;
 
 
-public class Task1_TreeNode {
+public class T1_TreeNode {
     public static void  main(String args[]){
         //Сначала создаем все узлы
         TreeNode root = new TreeNode(1);
