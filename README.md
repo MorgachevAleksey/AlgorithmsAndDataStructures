@@ -7,6 +7,9 @@
    `src/main/java/ALL/l01_sorts/mergeSort`
      - `T0_MergeSortTheory.md`
      - `T1_Merge.java`
+     - `T2_LeetCode_88.java`
+     - `T2S_LeetCode_88.md`
+     - `T3_MergeSort.java`
    - Быстрая
    `src/main/java/ALL/l01_sorts/quickSort`
      - `T0_QuickSortTheory.md`
@@ -25,7 +28,11 @@
 Также представлены решения задач по Java с сайта CodeWars
 `src/main/java/ALL/l00_codeWarsTasks`
 - `T1_HelloWorld.java`
+- `T1S_HelloWorld.md`
 - `T2_ObjectInArray.java`
+- `T2S_ObjectInArray.md`
 - `T3_ArrayAverage.java`
+- `T3S_ArrayAverage.md`
 - `T4_ReturnMessage.java`
+- `T4S_ReturnMessage.md`
 
