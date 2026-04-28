@@ -12,6 +12,8 @@
      - `T3_MergeSort.java`
      - `T4_LeetCode_912.java`
      - `T4S_LeetCode_912.md`
+     - `T5_LeetCode_21.java`
+     - `T5S_LeetCode_21.md`
    - Быстрая
    `src/main/java/ALL/l01_sorts/quickSort`
      - `T0_QuickSortTheory.md`
@@ -26,6 +28,21 @@
    `src/main/java/ALL/l02_arrays_hashing/slidingWindow`
      - `T0_SlidingWindowTheory.md`
      - `T1_SlidingWindow.java`
+3. Связные списки
+   `src/main/java/ALL/l03_linkedLists`
+4. Бинарный поиск
+   `src/main/java/ALL/l04_binarySearch`
+5. Стэк и очередь
+   `src/main/java/ALL/l05_stacksAndQueues`
+6. Деревья
+   `src/main/java/ALL/l06_trees`
+7. Графы
+   `src/main/java/ALL/l07_graphs`
+8. Динамическое программирование
+   - Алгоритм Кадана
+     `src/main/java/ALL/l08_dynamicProgramming/kadanes`
+   - Задача о рюкзаке
+     `src/main/java/ALL/l08_dynamicProgramming/knapsack`
 
 Также представлены решения задач по Java с сайта CodeWars
 `src/main/java/ALL/l00_codeWarsTasks`

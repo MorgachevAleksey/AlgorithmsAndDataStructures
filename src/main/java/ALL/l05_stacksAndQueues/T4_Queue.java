@@ -1,5 +1,6 @@
 package ALL.l05_stacksAndQueues;
 
+//FIXME дописать реализацию после закрытия темы бинарного поиска
 public class T4_Queue {
     //Реализация очереди на массиве
     static class Queue{

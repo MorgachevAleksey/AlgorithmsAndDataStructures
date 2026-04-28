@@ -1,5 +1,6 @@
 package ALL.l08_dynamicProgramming.kadanes;
 
+//FIXME дописать реализацию после прохождения графов
 public class T5_LeetCode_918 {
     public static void main(String[] args) {
         int[] arr = {1,-2,3,-2};
