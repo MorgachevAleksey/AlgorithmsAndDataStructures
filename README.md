@@ -10,6 +10,8 @@
      - `T2_LeetCode_88.java`
      - `T2S_LeetCode_88.md`
      - `T3_MergeSort.java`
+     - `T4_LeetCode_912.java`
+     - `T4S_LeetCode_912.md`
    - Быстрая
    `src/main/java/ALL/l01_sorts/quickSort`
      - `T0_QuickSortTheory.md`
@@ -35,4 +37,3 @@
 - `T3S_ArrayAverage.md`
 - `T4_ReturnMessage.java`
 - `T4S_ReturnMessage.md`
-
