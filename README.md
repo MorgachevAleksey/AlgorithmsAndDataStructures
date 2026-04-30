@@ -16,28 +16,28 @@
      - `T5S_LeetCode_21.md`
    - Быстрая
    `src/main/java/ALL/l01_sorts/quickSort`
-     - `T0_QuickSortTheory.md`
-     - `T1_QuickSort.java`
 
 2. Массивы и хеши
    - Два указателя
    `src/main/java/ALL/l02_arrays_hashing/twoPointers`
-     - `T0_TwoPointersTheory.md`
-     - `T1_TwoPointers.java`
    - Скользящее окно
    `src/main/java/ALL/l02_arrays_hashing/slidingWindow`
-     - `T0_SlidingWindowTheory.md`
-     - `T1_SlidingWindow.java`
+   
 3. Связные списки
    `src/main/java/ALL/l03_linkedLists`
+
 4. Бинарный поиск
    `src/main/java/ALL/l04_binarySearch`
+
 5. Стэк и очередь
    `src/main/java/ALL/l05_stacksAndQueues`
+
 6. Деревья
    `src/main/java/ALL/l06_trees`
+
 7. Графы
    `src/main/java/ALL/l07_graphs`
+
 8. Динамическое программирование
    - Алгоритм Кадана
      `src/main/java/ALL/l08_dynamicProgramming/kadanes`
