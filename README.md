@@ -54,3 +54,5 @@
 - `T3S_ArrayAverage.md`
 - `T4_ReturnMessage.java`
 - `T4S_ReturnMessage.md`
+- `T5_ReturnStringNumber.java`
+- `T5S_ReturnStringNumber.md`

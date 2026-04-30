@@ -8,16 +8,16 @@ public class T1_Merge {
     public static void main(String[] args){
         int[] arr1 = {1, 4, 6};
         int[] arr2 = {2, 3, 5};
-        System.out.println(Arrays.toString(Merge_1(arr1, arr2)));
+        System.out.println(Arrays.toString(mergeWithBuffer(arr1, arr2)));
 
         int[] arr3 = {1, 4, 6, 0, 0, 0};
         int[] arr4 = {2, 3, 5};
         int n = 3; //Колличество реальных элементов в первом массиве
-        System.out.println(Arrays.toString(Merge_2(arr3, arr4, n)));
+        System.out.println(Arrays.toString(mergeInPlace(arr3, arr4, n)));
     }
 
     //Слияние с помощью буферного массива
-    public static int[] Merge_1(int[] left, int[] right){
+    public static int[] mergeWithBuffer(int[] left, int[] right){
         int[] rez = new int[left.length + right.length];
         int i = 0; //Указатель для первого массива
         int j = 0; //Для второго
@@ -54,7 +54,7 @@ public class T1_Merge {
     }
 
     //Слияние in-place
-    public static int[] Merge_2(int[] left, int[] right, int n ){ //Кол-во реальных элементов в первом массиве
+    public static int[] mergeInPlace(int[] left, int[] right, int n ){ //Кол-во реальных элементов в первом массиве
         int i = n - 1;
         int j = right.length - 1;
         int k = left.length - 1;
