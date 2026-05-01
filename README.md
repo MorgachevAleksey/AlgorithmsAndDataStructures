@@ -14,6 +14,8 @@
      - `T4S_LeetCode_912.md`
      - `T5_LeetCode_21.java`
      - `T5S_LeetCode_21.md`
+     - `T6_LeetCode_148.java`
+     - `T6S_LeetCode_148.md`
    - Быстрая
    `src/main/java/ALL/l01_sorts/quickSort`
 
@@ -56,3 +58,5 @@
 - `T4S_ReturnMessage.md`
 - `T5_ReturnStringNumber.java`
 - `T5S_ReturnStringNumber.md`
+- `T6_SurfaceAreaAndVolume.java`
+- `T6S_SurfaceAreaAndVolume.md`
