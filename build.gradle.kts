@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "ALL"
+group = "com.morgachev.aleksey.algo"
 version = "1.0-SNAPSHOT"
 
 repositories {
