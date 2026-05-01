@@ -60,6 +60,8 @@
 - `T5S_ReturnStringNumber.md`
 - `T6_SurfaceAreaAndVolume.java`
 - `T6S_SurfaceAreaAndVolume.md`
+- `T7_FirstNonConsecutive.java`
+- `T7S_FirstNonConsecutive.md`
 
 Технологии:
 - Java 21
