@@ -60,3 +60,11 @@
 - `T5S_ReturnStringNumber.md`
 - `T6_SurfaceAreaAndVolume.java`
 - `T6S_SurfaceAreaAndVolume.md`
+
+Технологии:
+- Java 21
+- Gradle (Kotlin DSL)
+- JUnit 5
+
+Запуск проекта:
+./gradlew build
