@@ -1,10 +1,16 @@
 Проект призван структуризовать решения алгоритмических задач
 
+Темы представлены в порядке изучения.
+Каждая тема изучается последовательно: теория → ручная реализация → задачи.
+Реализации и разборы добавляются только после проработки темы.
+
+---
+
 Структура проекта:
 
 1. Сортировки
    - Слиянием 
-   `src/main/java/com.morgachev.aleksey.algo/l01_sorts/mergeSort`
+   `src/main/java/com/morgachev/aleksey/algo/l01_sorts/mergeSort`
      - `T0_MergeSortTheory.md`
      - `T1_Merge.java`
      - `T2_LeetCode_88.java`
@@ -17,11 +23,11 @@
      - `T6_LeetCode_148.java`
      - `T6S_LeetCode_148.md`
    - Быстрая
-   `src/main/java/com.morgachev.aleksey.algo/l01_sorts/quickSort`
+   `src/main/java/com/morgachev/aleksey/algo/l01_sorts/quickSort`
 
 2. Массивы и хеши
    - Два указателя
-   `src/main/java/com.morgachev.aleksey.algo/l02_arrays_hashing/twoPointers`
+   `src/main/java/com/morgachev/aleksey/algo/l02_arrays_hashing/twoPointers`
      - `T0_TwoPointersTheory.md`
      - `T1_Reverse.java`
      - `T2_LeetCode_344.java`
@@ -31,31 +37,31 @@
      - `T4S_LeetCode_125.md`
    
    - Скользящее окно
-   `src/main/java/com.morgachev.aleksey.algo/l02_arrays_hashing/slidingWindow`
+   `src/main/java/com/morgachev/aleksey/algo/l02_arrays_hashing/slidingWindow`
    
 3. Связные списки
-   `src/main/java/com.morgachev.aleksey.algo/l03_linkedLists`
+   `src/main/java/com/morgachev/aleksey/algo/l03_linkedLists`
 
 4. Бинарный поиск
-   `src/main/java/com.morgachev.aleksey.algo/l04_binarySearch`
+   `src/main/java/com/morgachev/aleksey/algo/l04_binarySearch`
 
 5. Стэк и очередь
-   `src/main/java/com.morgachev.aleksey.algo/l05_stacksAndQueues`
+   `src/main/java/com/morgachev/aleksey/algo/l05_stacksAndQueues`
 
 6. Деревья
-   `src/main/java/com.morgachev.aleksey.algo/l06_trees`
+   `src/main/java/com/morgachev/aleksey/algo/l06_trees`
 
 7. Графы
-   `src/main/java/com.morgachev.aleksey.algo/l07_graphs`
+   `src/main/java/com/morgachev/aleksey/algo/l07_graphs`
 
 8. Динамическое программирование
    - Алгоритм Кадана
-     `src/main/java/com.morgachev.aleksey.algo/l08_dynamicProgramming/kadanes`
+     `src/main/java/com/morgachev/aleksey/algo/l08_dynamicProgramming/kadanes`
    - Задача о рюкзаке
-     `src/main/java/com.morgachev.aleksey.algo/l08_dynamicProgramming/knapsack`
+     `src/main/java/com/morgachev/aleksey/algo/l08_dynamicProgramming/knapsack`
 
 Также представлены решения задач по Java с сайта CodeWars
-`src/main/java/com.morgachev.aleksey.algo/l00_codeWarsTasks`
+`src/main/java/com/morgachev/aleksey/algo/l00_codeWarsTasks`
 - `T1_HelloWorld.java`
 - `T1S_HelloWorld.md`
 - `T2_ObjectInArray.java`
@@ -71,10 +77,16 @@
 - `T7_FirstNonConsecutive.java`
 - `T7S_FirstNonConsecutive.md`
 
+---
+
 Технологии:
 - Java 21
 - Gradle (Kotlin DSL)
 - JUnit 5
 
-Запуск проекта:
+---
+
+Запуск :
+```bash
 ./gradlew build
+```
