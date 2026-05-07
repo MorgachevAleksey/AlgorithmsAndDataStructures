@@ -22,6 +22,14 @@
 2. Массивы и хеши
    - Два указателя
    `src/main/java/com.morgachev.aleksey.algo/l02_arrays_hashing/twoPointers`
+     - `T0_TwoPointersTheory.md`
+     - `T1_Reverse.java`
+     - `T2_LeetCode_344.java`
+     - `T2S_LeetCode_344.md`
+     - `T3_PalindromeCheck.java`
+     - `T4_LeetCode_125.java`
+     - `T4S_LeetCode_125.md`
+   
    - Скользящее окно
    `src/main/java/com.morgachev.aleksey.algo/l02_arrays_hashing/slidingWindow`
    
