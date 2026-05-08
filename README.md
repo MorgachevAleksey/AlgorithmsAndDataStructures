@@ -35,6 +35,10 @@
      - `T3_PalindromeCheck.java`
      - `T4_LeetCode_125.java`
      - `T4S_LeetCode_125.md`
+     - `T5_LeetCode_680.java`
+     - `T5S_LeetCode_680.md`
+     - `T6_LeetCode_167.java`
+     - `T6S_LeetCode_167.md`
    
    - Скользящее окно
    `src/main/java/com/morgachev/aleksey/algo/l02_arrays_hashing/slidingWindow`
