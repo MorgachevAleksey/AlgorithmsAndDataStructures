@@ -39,6 +39,8 @@
      - `T5S_LeetCode_680.md`
      - `T6_LeetCode_167.java`
      - `T6S_LeetCode_167.md`
+     - `T7_LeetCode_15.java`
+     - `T7S_LeetCode_15.md`
    
    - Скользящее окно
    `src/main/java/com/morgachev/aleksey/algo/l02_arrays_hashing/slidingWindow`
@@ -80,6 +82,8 @@
 - `T6S_SurfaceAreaAndVolume.md`
 - `T7_FirstNonConsecutive.java`
 - `T7S_FirstNonConsecutive.md`
+- `T8_EvenCheck.java`
+- `T8S_EvenCheck.md`
 
 ---
 
