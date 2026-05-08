@@ -41,6 +41,8 @@
      - `T6S_LeetCode_167.md`
      - `T7_LeetCode_15.java`
      - `T7S_LeetCode_15.md`
+     - `T8_LeetCode_16.java`
+     - `T8S_LeetCode_16.md`
    
    - Скользящее окно
    `src/main/java/com/morgachev/aleksey/algo/l02_arrays_hashing/slidingWindow`

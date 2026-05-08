@@ -45,7 +45,7 @@ public class T7_LeetCode_15 {
                     res.add(1, nums[left]);
                     res.add(2, nums[right]);
                     result.add(res);
-                    //Так как решение не иденственное - нужно проеверитьь весь подотрезок
+                    //Так как решение не единственное - нужно проеверитьь весь подотрезок
                     left++;
                     right--;
                 }
@@ -61,3 +61,10 @@ public class T7_LeetCode_15 {
         return result;
     }
 }
+
+//Но вообще, идеоматически, дубликаты проверяются двумя while после нахождения тройки
+/*rezult.add(nums[i],nums[left],nums[right])
+while (left < right && nums[left] == nums[left+1]) left++
+while (left < right && nums[right] == nums[right-1]) right--
+left++
+right--*/
