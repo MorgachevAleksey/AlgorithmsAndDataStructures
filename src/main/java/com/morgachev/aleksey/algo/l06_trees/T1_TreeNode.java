@@ -26,13 +26,13 @@ public class T1_TreeNode {
         public TreeNode right; //Правый потомок
 
         //Конструкторы
-        public TreeNode(){
+        public TreeNode(){ //Пустой, сохранение конструктора по умолчанию
 
         }
-        public TreeNode(int val){
+        public TreeNode(int val){ //С инициализацией узла тольско со значением
             this.val = val;
         }
-        public TreeNode(int val, TreeNode left, TreeNode right){
+        public TreeNode(int val, TreeNode left, TreeNode right){ //С инициализацией узла со значением и потомками
             this.val = val;
             this.left = left;
             this.right = right;

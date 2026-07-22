@@ -57,7 +57,11 @@
    `src/main/java/com/morgachev/aleksey/algo/l05_stacksAndQueues`
 
 6. Деревья
-   `src/main/java/com/morgachev/aleksey/algo/l06_trees`
+`src/main/java/com/morgachev/aleksey/algo/l06_trees`
+    - `T0_TreesTheory.md`
+    - `T1_TreeNode.java`
+    - `T2_LeetCode_104.java`
+    - `T2S_LeetCode_104.md`
 
 7. Графы
    `src/main/java/com/morgachev/aleksey/algo/l07_graphs`
