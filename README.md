@@ -62,6 +62,12 @@
     - `T1_TreeNode.java`
     - `T2_LeetCode_104.java`
     - `T2S_LeetCode_104.md`
+    - `T3_LeetCode_144.java`
+    - `T3S_LeetCode_144.md`
+    - `T4_LeetCode_94.java`
+    - `T4S_LeetCode_94.md`
+    - `T5_LeetCode_145.java`
+    - `T5S_LeetCode_145.md`
 
 7. Графы
    `src/main/java/com/morgachev/aleksey/algo/l07_graphs`
