@@ -68,6 +68,8 @@
     - `T4S_LeetCode_94.md`
     - `T5_LeetCode_145.java`
     - `T5S_LeetCode_145.md`
+    - `T6_LeetCode_94.java`
+    - `T6S_LeetCode_94.md`
 
 7. Графы
    `src/main/java/com/morgachev/aleksey/algo/l07_graphs`
