@@ -51,7 +51,12 @@
    `src/main/java/com/morgachev/aleksey/algo/l03_linkedLists`
 
 4. Бинарный поиск
-   `src/main/java/com/morgachev/aleksey/algo/l04_binarySearch`
+`src/main/java/com/morgachev/aleksey/algo/l04_binarySearch`
+   - `T0_BinarySearchTheory.md`
+   - `T1_BinarySearch_Iterative.java`
+   - `T2_BinarySearch_Recursive.java`
+   - `T3_LeetCode_704.java`
+   - `T3S_LeetCode_704.md`
 
 5. Стэк и очередь
    `src/main/java/com/morgachev/aleksey/algo/l05_stacksAndQueues`
