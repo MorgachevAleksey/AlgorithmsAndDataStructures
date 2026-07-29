@@ -22,6 +22,7 @@
      - `T5S_LeetCode_21.md`
      - `T6_LeetCode_148.java`
      - `T6S_LeetCode_148.md`
+   
    - Быстрая
    `src/main/java/com/morgachev/aleksey/algo/l01_sorts/quickSort`
 
@@ -46,6 +47,12 @@
    
    - Скользящее окно
    `src/main/java/com/morgachev/aleksey/algo/l02_arrays_hashing/slidingWindow`
+   
+   - Префиксные суммы
+     `src/main/java/com/morgachev/aleksey/algo/l02_arrays_hashing/prefixSums`
+   
+   - Хэш-таблицы
+     `src/main/java/com/morgachev/aleksey/algo/l02_arrays_hashing/hashing`
    
 3. Связные списки
    `src/main/java/com/morgachev/aleksey/algo/l03_linkedLists`
@@ -82,8 +89,19 @@
 8. Динамическое программирование
    - Алгоритм Кадана
      `src/main/java/com/morgachev/aleksey/algo/l08_dynamicProgramming/kadanes`
+   
    - Задача о рюкзаке
      `src/main/java/com/morgachev/aleksey/algo/l08_dynamicProgramming/knapsack`
+   
+   - Прочие задачи
+     `src/main/java/com/morgachev/aleksey/algo/l08_dynamicProgramming/otherDP`
+   
+9. Жадные алгоритмы
+   - Жадные алгоритмы
+     `src/main/java/com/morgachev/aleksey/algo/l09_greedy/greedyAlgorythms`
+
+   - Интервалы
+     `src/main/java/com/morgachev/aleksey/algo/l09_greedy/intervals`
 
 Также представлены решения задач по Java с сайта CodeWars
 `src/main/java/com/morgachev/aleksey/algo/l00_codeWarsTasks`

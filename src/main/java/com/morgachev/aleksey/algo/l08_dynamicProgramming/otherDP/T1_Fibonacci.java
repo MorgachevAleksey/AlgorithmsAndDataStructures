@@ -1,4 +1,4 @@
-package com.morgachev.aleksey.algo.l08_dynamicProgramming;
+package com.morgachev.aleksey.algo.l08_dynamicProgramming.otherDP;
 
 //Реализация 4ёх описаннных в теоритическом файле подходов к нахождению n-ого числа фибоначчи
 public class T1_Fibonacci {
