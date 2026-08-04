@@ -102,6 +102,8 @@
 
    - Интервалы
      `src/main/java/com/morgachev/aleksey/algo/l09_greedy/intervals`
+      - `T0_IntervalsTheory.md`
+      - `T1_MergeIntervals.java`
 
 Также представлены решения задач по Java с сайта CodeWars
 `src/main/java/com/morgachev/aleksey/algo/l00_codeWarsTasks`
