@@ -104,6 +104,10 @@
      `src/main/java/com/morgachev/aleksey/algo/l09_greedy/intervals`
       - `T0_IntervalsTheory.md`
       - `T1_MergeIntervals.java`
+      - `T2_LeetCode_56.java`
+      - `T2S_LeetCode_56.md`
+      - `T3_LeetCode_57.java`
+      - `T3S_LeetCode_57.md`
 
 Также представлены решения задач по Java с сайта CodeWars
 `src/main/java/com/morgachev/aleksey/algo/l00_codeWarsTasks`

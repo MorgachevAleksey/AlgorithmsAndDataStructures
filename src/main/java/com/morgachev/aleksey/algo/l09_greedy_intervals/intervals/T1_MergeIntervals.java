@@ -20,7 +20,9 @@ public class T1_MergeIntervals {
 
     //На отсортированном по началу
     public static List<int[]> mergeIntervals(int[][] arr){
+        //Результирующий список
         List<int[]> merged = new ArrayList<>();
+        //Фор-ич по всем членам массива
         for (int[] interval : arr){
             if (merged.isEmpty() || merged.get(merged.size() - 1)[1] < interval[0]){ //Список ответов пуст либо последний в ответе НЕ пересекается с текущим
                 merged.add(interval);
