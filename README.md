@@ -50,6 +50,12 @@
    
    - Префиксные суммы
      `src/main/java/com/morgachev/aleksey/algo/l02_arrays_hashing/prefixSums`
+     - `T0_PrefixSumsTheory.md`
+     - `T1_PrefixSums.java`
+     - `T2_LeetCode_1480.java`
+     - `T2S_LeetCode_1480.md`
+     - `T3_LeetCode_303.java`
+     - `T3S_LeetCode_303.md`
    
    - Хэш-таблицы
      `src/main/java/com/morgachev/aleksey/algo/l02_arrays_hashing/hashing`
